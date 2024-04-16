@@ -1,3 +1,5 @@
+**Three-Tier-Architecture-AWS-Terraform**
+
 This repository contains terraform code to deploy a **Three-Tier Architecture** in AWS
 
 It creates a **VPC** with **3 Public** and **3 Private Subnets**. 
